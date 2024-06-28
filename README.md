@@ -53,4 +53,4 @@ Make sure you have the following libraries installed:
 
 
 ### Results
-The model is evaluated based on accuracy, precision, recall, and F1 score. Detailed performance metrics can be found in the classification report.
+The model is evaluated based on accuracy, precision, recall, and F1 score. Detailed performance metrics can be found in the code.
