@@ -50,3 +50,7 @@ Make sure you have the following libraries installed:
     ```
 
 2. Run the `sentiment_analysis.ipynb` notebook to preprocess data, train the model, and evaluate its performance.
+
+
+### Results
+The model is evaluated based on accuracy, precision, recall, and F1 score. Detailed performance metrics can be found in the classification report.
